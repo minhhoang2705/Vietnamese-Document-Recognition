@@ -40,6 +40,15 @@ Here is a demo
 ## Contributions
 Contributions to the project are welcome.
 
-## Acknowledgments
-- Special thanks to the [PaddleOCR]()
+## Acknowledgements
+
+This project would not have been possible without the support and contributions from various individuals and organizations. We would like to extend our heartfelt thanks to:
+
+- The developers and contributors of **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR.git)** for providing essential tools and libraries that were instrumental in this project.
+- Our community of users and contributors who have provided valuable feedback, bug reports, and suggestions.
+
+Special thanks to my mentor **Vin Thai Nguyen** for guidance and mentorship throughout the development of this project.
+
+Lastly, we are grateful for the open-source community and everyone who has indirectly contributed by sharing their knowledge and resources, which have been invaluable to our work.
+
 
